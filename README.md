@@ -32,7 +32,7 @@ This includes trendline and target line to help HR managers track progress towar
 5. Data Visualization.
 
 # DASHBOARD:
-![Screenshot (215)](https://github.com/Mohitsachdev1507/HR-Analytics-Dashboard-Using-Tableau/assets/124619208/38ebb22d-7238-4120-8f96-6c4e110fa46b)
+![Screenshot (216)](https://github.com/Mohitsachdev1507/HR-Analytics-Dashboard-Using-Tableau/assets/124619208/9fa7dfa8-ce87-41ae-ac74-f6bdf6fcdbc9)
 
 
 
