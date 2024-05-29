@@ -4,7 +4,7 @@
 # Links:
 
 Lets Connect
-Go to my LinkedIn 🌐
+Go to my LinkedIn 🌐 https://www.linkedin.com/in/mohit-sachdev-a3a2b9261/
 
 Go to My Dashboard
 
