@@ -32,6 +32,7 @@ This includes trendline and target line to help HR managers track progress towar
 5. Data Visualization.
 
 # DASHBOARD:
+![Uploading Screenshot (215).png…]()
 
 
 
